@@ -795,7 +795,8 @@ a img.aligncenter {
   @media (max-width: 768px) {
     #hero {
       height: 100vh;
-      background-position: -650px -80px;
+      background-position: -635px -80px;
+      background-repeat: no-repeat;
     }
     #hero h1 {
       font-size: 28px;
